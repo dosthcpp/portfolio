@@ -197,6 +197,14 @@ const bigProjects = {
         {
           name: "Android",
           url: "https://korjarvis.asuscomm.com:9090/sharing/QUNNkLjDj"
+        },
+        {
+          name: "View Source(mobile)",
+          url: "https://github.com/dosthcpp/dingo_mobileapp_prototype"
+        },
+        {
+          name: "View Source(Web)",
+          url: "https://github.com/dosthcpp/dingo_webapp_prototype"
         }
       ]
     },
@@ -212,6 +220,10 @@ const bigProjects = {
         {
           name: "Android",
           url: "https://korjarvis.asuscomm.com:9090/sharing/PPDa2Sacy"
+        },
+        {
+          name: "View Source",
+          url: "https://github.com/dosthcpp/boardwalk"
         }
       ]
     }

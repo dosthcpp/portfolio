@@ -205,6 +205,10 @@ const bigProjects = {
         {
           name: "View Source(Web)",
           url: "https://github.com/dosthcpp/dingo_webapp_prototype"
+        },
+        {
+          name: "시연영상",
+          url: "https://www.youtube.com/watch?v=34-RZ62ji_Y"
         }
       ]
     },

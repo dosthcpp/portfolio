@@ -19,17 +19,19 @@
     "react-scripts": "^3.4.3",
     "react-twitter-embed": "3.0.3",
     "sass": "^1.32.8",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "serve": "^13.0.2"
   },
   "scripts": {
     "predeploy": "npm run build",
-    "start": "node fetch.js && react-scripts start",
+    "start": "serve -s build",
     "build": "node fetch.js && react-scripts build",
     "deploy": "gh-pages -b master -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "format": "prettier --write \"./**/*.{js,css,json,scss}\"",
-    "check-format": "prettier -c \"./**/*.{js,css,json,scss}\""
+    "check-format": "prettier -c \"./**/*.{js,css,json,scss}\"",
+    "heroku-prebuild": "npm install --only=dev"
   },
   "eslintConfig": {
     "extends": "react-app"

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.361bf9f6.chunk.css",
+    "main.css": "/static/css/main.ff8c713c.chunk.css",
     "main.js": "/static/js/main.882e37b6.chunk.js",
     "main.js.map": "/static/js/main.882e37b6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.389bd1f2.js",
@@ -14,11 +14,11 @@
     "static/js/4.ded4a2f8.chunk.js": "/static/js/4.ded4a2f8.chunk.js",
     "static/js/4.ded4a2f8.chunk.js.map": "/static/js/4.ded4a2f8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fbabccbbff9d111ea198fe0c92e6e557.js": "/precache-manifest.fbabccbbff9d111ea198fe0c92e6e557.js",
+    "precache-manifest.ee9158799bbbead1e3aa9b3f73bfc7f8.js": "/precache-manifest.ee9158799bbbead1e3aa9b3f73bfc7f8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.df879eac.chunk.css.map": "/static/css/3.df879eac.chunk.css.map",
     "static/css/4.e91a4b36.chunk.css.map": "/static/css/4.e91a4b36.chunk.css.map",
-    "static/css/main.361bf9f6.chunk.css.map": "/static/css/main.361bf9f6.chunk.css.map",
+    "static/css/main.ff8c713c.chunk.css.map": "/static/css/main.ff8c713c.chunk.css.map",
     "static/js/2.45661018.chunk.js.LICENSE.txt": "/static/js/2.45661018.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/boardwalkLogo.png": "/static/media/boardwalkLogo.23d9d970.png",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.389bd1f2.js",
     "static/js/2.45661018.chunk.js",
-    "static/css/main.361bf9f6.chunk.css",
+    "static/css/main.ff8c713c.chunk.css",
     "static/js/main.882e37b6.chunk.js"
   ]
 }

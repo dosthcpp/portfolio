@@ -52,6 +52,10 @@
       "last 1 safari version"
     ]
   },
+  "engines": {
+    "node": "16.19.0",
+    "npm": "8.19.3"
+  },
   "devDependencies": {
     "prettier": "^2.3.1"
   }
